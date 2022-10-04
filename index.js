@@ -1,3 +1,1 @@
-$( function() {
-	$( "#container").draggable();
-});
+$( "#container").draggable();
