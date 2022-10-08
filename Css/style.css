@@ -8,6 +8,5 @@ body {
 
 #container {
     background: rgba(0, 0, 0, .4);
-    border: 10px solid #a3a3a3;
     font-family: system-ui;
 }
